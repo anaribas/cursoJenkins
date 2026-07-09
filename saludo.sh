@@ -1,1 +1,1 @@
-echo  "Hola mundo con Jenkins i Github"
+echo  "Hola mundo con Jenkins y Github"
