@@ -25,6 +25,6 @@ pip install -r requirements.txt --break-system-packages
 
 # Ejecutar las pruebas
 echo "Ejecutando pruebas con pytest..."
-python3 -m pytest tests/ --junitxml=reports/test-results.xml --html=reports/test-results.html --self-contained-html
+python3 -m pytest tests/ --junitxml=./reports/test-results.xml --html=./reports/test-results.html --self-contained-html
 
 echo "Pruebas finalidadas. Resultados en reports/"
